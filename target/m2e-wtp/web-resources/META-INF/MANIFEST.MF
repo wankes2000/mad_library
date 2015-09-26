@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: beers
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.beeva
+Build-Jdk: 1.7.0_80
+Built-By: wankes2000
+Created-By: Maven Integration for Eclipse
+
