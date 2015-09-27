@@ -1,1 +1,1 @@
-java -jar /opt/webapps/mad_library.war
+java -jar /opt/webapps/mad_library.war &
