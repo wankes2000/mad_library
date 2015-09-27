@@ -1,1 +1,2 @@
-java -jar /opt/webapps/mad_library.war > /dev/null 2>&1 &
+java -jar /opt/webapps/mad_library.war > /var/log/mad_library.log 2>&1 &
+sleep 30
