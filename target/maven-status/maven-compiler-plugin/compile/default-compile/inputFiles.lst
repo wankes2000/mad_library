@@ -1,2 +1,5 @@
-/home/wankes2000/workspace/mad_library/src/main/java/beers/ServletInitializer.java
-/home/wankes2000/workspace/mad_library/src/main/java/beers/BeersApplication.java
+/home/wankes2000/workspace/mad_library/src/main/java/library/MadLibraryApplication.java
+/home/wankes2000/workspace/mad_library/src/main/java/library/ServletInitializer.java
+/home/wankes2000/workspace/mad_library/src/main/java/library/model/BaseData.java
+/home/wankes2000/workspace/mad_library/src/main/java/library/model/Response.java
+/home/wankes2000/workspace/mad_library/src/main/java/library/controller/StatusController.java

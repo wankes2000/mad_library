@@ -1,2 +1,5 @@
-beers/ServletInitializer.class
-beers/BeersApplication.class
+library/ServletInitializer.class
+library/MadLibraryApplication.class
+library/controller/StatusController.class
+library/model/BaseData.class
+library/model/Response.class
