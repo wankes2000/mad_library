@@ -1,2 +1,1 @@
-ln -s /opt/webapps/mad_library.war /etc/init.d/mad_library
-/etc/init.d/mad_library start
+sudo ./usr/local/scripts/spring_boot.sh start

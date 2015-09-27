@@ -5,7 +5,6 @@
 
 	<groupId>com.beeva</groupId>
 	<artifactId>mad.library</artifactId>
-	<packaging>war</packaging>
 
 	<name>beers</name>
 	<description>Spring Boot Mad Library Project</description>

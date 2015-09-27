@@ -3,6 +3,8 @@ os: linux
 files:
   - source: target/mad_library.war
     destination: /opt/webapps/
+  - source: scripts/spring_boot.sh
+  	destination: /usr/local/scripts/ 
 hooks:
   ApplicationStart:
     - location: scripts/start.sh
