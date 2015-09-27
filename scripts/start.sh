@@ -1,1 +1,1 @@
-nohup java -jar /opt/webapps/mad_library.war &
+java -jar /opt/webapps/mad_library.war > /dev/null 2>&1 &
